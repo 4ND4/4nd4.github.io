@@ -21,9 +21,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 My background and history
 ======
 
-I received my Ph.D from the UCD School of Computer Science, my Msc. from the Faculty of Natural and Mathematical Sciences at King's College London, and my BSE. at the Pontifical Catholic University of Ecuador. Prior to receiving my Masters, I was working for a total of 5 years+ designing implementing and maintaining software for several financial and private entities. I have vast experience programming in Python, C#, Java, and C++.
-
-For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.
+I received my Ph.D in Computer Science in 2021 thanks to a Scholarship granted by the UCD School of Computer Science. I obtained my Msc. in Computing and Security from the Faculty of Natural and Mathematical Sciences at King's College London also through a Scholarship. My BSE. was obtained in Quito at the Pontifical Catholic University of Ecuador. Prior to receiving my Masters I was working for over 5 years designing implementing and maintaining software for several financial and private entities. I have vast experience programming in Python, C#, Java, and C++, experience with relational and non-relational databases and passionate about information security topics, computer intrusion techniques such as SQL injection, Poisoning, Key Loggers, Trojans, Backdoors, etc.  
 
 Site-wide configuration
 ------
