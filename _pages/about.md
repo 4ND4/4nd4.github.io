@@ -20,12 +20,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 My background and history
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+I received my Ph.D from the UCD School of Computer Science, my Msc. from the Faculty of Natural and Mathematical Sciences at King's College London, and my BSE. at the Pontifical Catholic University of Ecuador. Prior to receiving my Masters, I was working for a total of 5 years+ designing implementing and maintaining software for several financial and private entities. I have vast experience programming in Python, C#, Java, and C++.
+
+For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.
 
 Site-wide configuration
 ------
