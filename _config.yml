@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Felix Santiago Anda Basabe"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   bio              : "Digital Forensics and Security Researcher"
   location         : "United Kingdom"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/4nd4/"
+  linkedin         : "4nd4"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
