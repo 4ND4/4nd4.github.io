@@ -90,7 +90,7 @@ author:
   email            :
   researchgate     : "https://www.researchgate.net/profile/Felix-Anda"
   uri              :
-  bitbucket        : "https://bitbucket.org/4nd4/"
+  bitbucket        : "4nd4"
   codepen          :
   dribbble         :
   flickr           :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "4nd4"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
