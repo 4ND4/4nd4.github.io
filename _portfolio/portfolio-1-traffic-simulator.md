@@ -1,6 +1,6 @@
 ---
 title: "Traffic Simulator"
-excerpt: "King''s College London Group Project <br/><img src='/images/traffic.png'>"
+excerpt: "King's College London Group Project <br/><img src='/images/traffic.png'>"
 collection: portfolio
 ---
 
