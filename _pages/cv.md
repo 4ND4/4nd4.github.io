@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.E. in Systems and Computing, Pontifical Catholic University of Ecuador, 2013
+* M.S. in Computing and Security, King's College London, 2016
+* Ph.D in Computer Science, University College Dublin, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2017 - May 2021: Teaching Assistant
+  * University College Dublin
+  * Duties included: Supervision of postgraduate students, assignment corrections, exam invigilations.
+  * Supervisor: Dr. Mark Scanlon
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Research
+  * Plannification
+  * Delivery
+  * Quality
+* Problem-Solving
 
 Publications
 ======
@@ -53,7 +48,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
