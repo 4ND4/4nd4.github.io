@@ -1,6 +1,6 @@
 ---
 title: "Traffic Simulator"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Screenshot 2021-06-10 at 17.54.49.png'>"
 collection: portfolio
 ---
 
