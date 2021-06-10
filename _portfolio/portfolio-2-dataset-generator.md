@@ -1,7 +1,19 @@
 ---
 title: "Dataset Generator"
-excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
+excerpt: "The dataset generator script will generate a random balanced dataset according to the inputs<br/><img src='/images/dataset-generator.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The software will generate a random balanced dataset based on the inputs that can be gender, minimum age and maximum age.
+The image database generator is capable of adjusting to multiple collections such as:
+
+* IMDB
+* WIKI
+* MORPH
+* FERET
+* FG-NET
+* YFCC100m
+
+
+https://user-images.githubusercontent.com/11651057/121581928-55ae8200-ca26-11eb-8578-159ebf34fc6d.mp4
+
