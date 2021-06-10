@@ -12,8 +12,10 @@ I was a teaching assistant for the Virtual Learning Environment for the Forensic
 
 COMP40120 Programming for Investigators
 ======
+Link
 
-COMP40110 Network Investigations
+[COMP40110 Network Investigations](https://www.google.com)
+COMP40110 Network Investigations 
 ======
 
 COMP41580 VoIP and Wireless Investigations
