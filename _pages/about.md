@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Felix,
+Hi I'm Felix, a digital forensic and security researcher. I'm passionate about technology and how it can be used to assist the most vulnerable.
 
 
 My work and research
