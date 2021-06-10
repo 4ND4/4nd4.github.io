@@ -2,7 +2,7 @@
 title: "Evaluating automated facial age estimation techniques for digital forensics"
 collection: publications
 permalink: /publication/2018-05-24-evaluating
-excerpt: 'In today"'"s world, closed circuit television, cellphone photographs and videos, open-source intelligence (i.e., social media/web data mining), and other sources of photographic evidence are commonly used by police forces to identify suspects and victims of both online and offline crimes. Human characteristics, such as age, height, weight, gender, hair color, etc., are often used by police officers and witnesses in their description of unidentified suspects.'
+excerpt: 'In today\'s world, closed circuit television, cellphone photographs and videos, open-source intelligence (i.e., social media/web data mining), and other sources of photographic evidence are commonly used by police forces to identify suspects and victims of both online and offline crimes. Human characteristics, such as age, height, weight, gender, hair color, etc., are often used by police officers and witnesses in their description of unidentified suspects.'
 date: 2018-05-24
 venue: '2018 IEEE Security and Privacy Workshops (SPW)'
 paperurl: 'http://4nd4.github.io/files/EvaluatingFacialAge.pdf'
