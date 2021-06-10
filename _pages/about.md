@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Felix, a digital forensic and security researcher. I'm passionate about technology and how it can be used to assist the most vulnerable.
+Hi I'm Felix, a digital forensic and security researcher. I'm a postgraduate teaching assistant at University College Dublin in the School of Computer Science.  I love coding, building my own tools and finding out how things work. I'm passionate about technology and how it can be used to assist the most vulnerable.
 
 
 My work and research
