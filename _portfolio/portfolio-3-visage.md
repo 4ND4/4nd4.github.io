@@ -1,6 +1,6 @@
 ---
 title: "VisAGe Data Curation System"
-excerpt: "VisAGe DCS is a system intended to curate creative common images from Flickr and assist the data labelling for facial images with age and gender.<br/><img src='/images/visage.png'>"
+excerpt: "VisAGe DCS is a system intended to curate creative common images from Flickr and assist the data labelling for facial images with age and gender.<br/><img src='/images/VisAGe_Sys.png'>"
 collection: portfolio
 ---
 
