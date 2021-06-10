@@ -1,7 +1,7 @@
 ---
 title: "Traffic Simulator"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Screenshot 2021-06-10 at 17.54.49.png'>"
+excerpt: "King''s College London Group Project <br/><img src='/images/traffic.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+This traffic simulator is a group project aimed to build a traffic simulation software based on a Cellular Automaton Model.
