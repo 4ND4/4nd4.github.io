@@ -1,12 +1,14 @@
 ---
 title: "Voluntary Teacher"
 collection: teaching
-type: "voluntary"
+type: "Voluntary"
 permalink: /teaching/2007-voluntary-teaching
 venue: "Escuela Fiscal Mixta 4 de Noviembre"
 date: 2007-07-07
 location: "Manta, Ecuador"
 ---
+
+Actividades desarrolladas en la Escuela:
 
 - Cooperación en las labores educativas de los niños de kinder durante la semana de exámenes, período durante el cual se realizaron actividades manuales de cortar, pegar, pintar, hacer figuras con plastilina y papel, y dibujar.
 - Calificación de exámenes.
