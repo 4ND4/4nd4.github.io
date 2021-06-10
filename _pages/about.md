@@ -24,7 +24,3 @@ My background and history
 ======
 
 I received my Ph.D in Computer Science in 2021 thanks to a Scholarship granted by the UCD School of Computer Science. I obtained my Msc. in Computing and Security from the Faculty of Natural and Mathematical Sciences at King's College London also through a Scholarship. My BSE. was obtained in Quito at the Pontifical Catholic University of Ecuador. Prior to receiving my Masters I was working for over 5 years designing implementing and maintaining software for several financial and private entities. I have vast experience programming in Python, C#, Java, and C++, experience with relational and non-relational databases and passionate about information security topics, digital forensics, computer intrusion techniques such as SQL injection, poisoning, key loggers, trojans, backdoors, etc.
-
-Site-wide configuration
-------
-Lorem Ipsum
