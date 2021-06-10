@@ -16,5 +16,8 @@ COMP40120 Programming for Investigators
 COMP40110 Network Investigations
 ======
 
-Heading 3
+COMP41580 VoIP and Wireless Investigations
+======
+
+COMP41660 Live Data Forensics
 ======
