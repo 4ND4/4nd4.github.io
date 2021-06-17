@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S.E. in Systems and Computing, Pontifical Catholic University of Ecuador, 2013
-* M.S. in Computing and Security, King's College London, 2016
+
 * Ph.D in Computer Science, University College Dublin, 2021
+* M.S. in Computing and Security, King's College London, 2016
+* B.S.E. in Systems and Computing, Pontifical Catholic University of Ecuador, 2013
 
 Work experience
 ======
@@ -26,7 +27,7 @@ Skills
 ======
 * Python
 * Research
-  * Plannification
+  * Planification
   * Delivery
   * Quality
 * Problem-Solving
