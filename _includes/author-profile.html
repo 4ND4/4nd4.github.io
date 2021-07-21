@@ -13,10 +13,6 @@
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
-
-  <div class="author__badge">
-    <script src="https://tryhackme.com/badge/552509"></script>
-  </div>
   
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
@@ -122,6 +118,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      
+    <script src="https://tryhackme.com/badge/552509"></script>
+      
     </ul>
   </div>
 </div>
