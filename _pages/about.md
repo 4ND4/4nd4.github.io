@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Felix, a digital forensic and security researcher. I'm a postgraduate teaching assistant at University College Dublin in the School of Computer Science.  I love coding, building my own tools and finding out how things work. I'm passionate about technology and how it can be used to assist the most vulnerable.
+Hi I'm Felix, a digital forensic and security researcher. I worked as a postgraduate teaching assistant at University College Dublin in the School of Computer Science but now have moved to the industry.  I love coding, building my own tools and finding out how things work. I'm passionate about technology and how it can be used to assist the most vulnerable.
 
 My research interest are within the intersection of cybersecurity, digital forensics and cybercrime investigations, deep learning, generative adversarial networks (GANs), forensic age estimation, ethical dataset curation and addressing data bias. My research interests include and are not limited to the use of GANs as data augmentation techniques to create synthetic data for facial age images to assist training and testing due to the lack of images in datasets for certain age/gender/ethnicity groups.
 
